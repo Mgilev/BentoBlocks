@@ -142,13 +142,11 @@ DeterminePartsToDisconnect го конвертира секој блок во л
 
 4.1 Слики од играта 
 
- 
+<img width="1012" height="566" alt="image" src="https://github.com/user-attachments/assets/a17efd21-fdf1-4a6c-a6b9-346b4835c783" />
 
  
+<img width="1010" height="568" alt="image" src="https://github.com/user-attachments/assets/103419b5-07ca-42a0-bac5-8d067c23634b" />
 
- 
-
- 
 
  
 
